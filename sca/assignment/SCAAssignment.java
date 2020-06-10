@@ -29,7 +29,7 @@ public class SCAAssignment {
         for (int i = 0; i <= 10; i++) total += i;
 
         System.out.println( "The sum of the first 10 natural numbers is " + total);
-
+//
         /*Infinite Loops
          * Infinite loops are loops that runs forever, excepte we kill the program, they are mostly
          * made by writing a condition which can never be met.
